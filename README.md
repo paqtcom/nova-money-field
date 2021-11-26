@@ -1,7 +1,11 @@
+
 # Money Field for Laravel Nova
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/vyuldashev/nova-money-field.svg?style=flat-square)](https://packagist.org/packages/vyuldashev/nova-money-field)
 [![Total Downloads](https://img.shields.io/packagist/dt/vyuldashev/nova-money-field.svg?style=flat-square)](https://packagist.org/packages/vyuldashev/nova-money-field)
+
+> **⚠ WARNING: No maintenance intended**  
+> This package is not actively maintained.
 
 ![screenshot 1](https://raw.githubusercontent.com/vyuldashev/nova-money-field/master/docs/user-details.png)
 
